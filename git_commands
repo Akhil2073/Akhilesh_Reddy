@@ -1,0 +1,4 @@
+git add <filename> : adds the file from workspace to the staging area
+git commit -m "commit a file" <filename> : commits the file and now the process is in staging area which is in tracked area
+git push origin : now the code is being pushed to the central location from local repo
+
